@@ -20,9 +20,12 @@ div.header{
 }
 
 .sol-ust-kose{
-  background-color: #ffe227;
   border-radius: 1rem;
-  padding: 2%;
+}
+
+img{
+  width: 200px;
+
 }
 
 .orta-bilgi{
