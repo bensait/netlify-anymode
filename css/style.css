@@ -1,17 +1,63 @@
-@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Ubuntu:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
-body {
-  margin: 0;
-  font-family: 'Ubuntu', sans-serif;
-}
-h1 {
-  border-left: 10px solid red;
-  padding-left: 10px;
-  background-color: #ffffff80;
-  font-family: 'Grandstander', cursive;
-  text-align: left;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@500&display=swap');
+
+body{
+  background-color: #E6C5AB;
 }
 
-div{
-  font-family: 'Marck', cursive;
+div.header{
+  background-color: #364f6b;
+  font-family: "Roboto", cursive;
+  font-weight: bold;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 1%;
+  padding: 1%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.sol-ust-kose{
+  background-color: #ffe227;
+  border-radius: 1rem;
+  padding: 2%;
+}
+
+.orta-bilgi{
+  font-style: italic;
+  color: white;
+  padding: 2%;
+}
+
+.register{
+  background-color: #54e346;
+  border-radius: 1rem;
+  padding: 2%;
+}
+
+.orta-bolum{
+background-color: #f5e19a;
+margin-left: 2%;
+margin-right: 2%;
+padding: 1%;
+display: flex;
+justify-content: space-between;
+font-family: "Lemonada", cursive;
+}
+
+.sol-taraf{
+
+}
+
+.sag-taraf{
+
+}
+
+.to-register{
+  text-align: center;
+  font-family: cursive;
+  font-size: 1rem;
+  margin: 1%;
 }
