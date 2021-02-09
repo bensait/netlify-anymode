@@ -46,6 +46,14 @@ Kendi ekledigim class lar
   NAVBAR STYLES
     ===================================*/
 
+    img.wapp{
+  position: fixed;
+  bottom: 20px;
+  right: 0;
+  width: 64px;
+  height: 64px;
+    }
+
 .logo-custom {
     max-height: 700%;
 }
