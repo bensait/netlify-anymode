@@ -56,11 +56,11 @@ Kendi ekledigim class lar
     }
 
 .logo-custom {
-    max-height: 700%;
+    max-height: 600%;
 }
 
 #menu {
-    background-color: rgba(28, 43, 75, 1);
+    background-color: #1687a7;
     color: #fff;
     font-size: 12px;
     font-weight: 900;
@@ -300,7 +300,7 @@ iframe{
 #footer {
     padding:5px 20px;
     background-color:#2d3d5a;
-    text-align:right;
+    text-align:left;
     color:#fff;
     font-size:15px;
 }
